@@ -42,18 +42,8 @@ Prophet      | Facebook's easy-to-use forecasting  | Good handling of seasonalit
 📝 Conclusion  
 This project demonstrates how time series forecasting and economic data analysis can help retail companies like Walmart make data-driven inventory and staffing decisions.
 
-📁 Folder Structure  
-Walmart_Sales_Forecasting/  
-├── Walmart_Weekly_Sales.ipynb  
-├── Walmart.csv  
-├── Forecast_Plots/  
-├── README.md  
-└── Report.pdf (optional)
 
-🔗 To Do (Optional Enhancements)  
-- [ ] Streamlit deployment for interactive dashboard  
-- [ ] Add cross-validation  
-- [ ] Expand to all 45 stores
+
 
 🔗 Connect with me on LinkedIn: [Sushant Kakde]([https://www.linkedin.com/in/sushant-kakde/](https://www.linkedin.com/in/sushant-kakde-21b956325))
 
