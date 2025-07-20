@@ -45,7 +45,7 @@ This project demonstrates how time series forecasting and economic data analysis
 
 
 
-🔗 Connect with me on LinkedIn: [Sushant Kakde]([https://www.linkedin.com/in/sushant-kakde/](https://www.linkedin.com/in/sushant-kakde-21b956325))
+🔗 Connect with me on LinkedIn: ([https://www.linkedin.com/in/sushant-kakde/](https://www.linkedin.com/in/sushant-kakde-21b956325))
 
 
 
